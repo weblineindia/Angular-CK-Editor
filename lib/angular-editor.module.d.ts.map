@@ -1,0 +1,1 @@
+{"version":3,"file":"angular-editor.module.d.ts","sources":["angular-editor.module.d.ts"],"names":[],"mappings":";;;;;;AAAA;;;AACA","sourcesContent":["export declare class AngularEditorModule {\n}\n"]}

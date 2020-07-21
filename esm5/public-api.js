@@ -1,0 +1,12 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of angular-editor
+ */
+export { AngularEditorService } from './lib/angular-editor.service';
+export { AngularEditorComponent } from './lib/angular-editor.component';
+export { AngularEditorToolbarComponent } from './lib/angular-editor-toolbar.component';
+export { AngularEditorModule } from './lib/angular-editor.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0Brb2xrb3YvYW5ndWxhci1lZGl0b3IvIiwic291cmNlcyI6WyJwdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFJQSxxQ0FBYyw4QkFBOEIsQ0FBQztBQUM3Qyx1Q0FBYyxnQ0FBZ0MsQ0FBQztBQUMvQyw4Q0FBYyx3Q0FBd0MsQ0FBQztBQUN2RCxvQ0FBYyw2QkFBNkIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgYW5ndWxhci1lZGl0b3JcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9hbmd1bGFyLWVkaXRvci5zZXJ2aWNlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL2FuZ3VsYXItZWRpdG9yLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9hbmd1bGFyLWVkaXRvci10b29sYmFyLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9hbmd1bGFyLWVkaXRvci5tb2R1bGUnO1xuZXhwb3J0IHsgQW5ndWxhckVkaXRvckNvbmZpZywgQ3VzdG9tQ2xhc3MgfSBmcm9tICcuL2xpYi9jb25maWcnO1xuIl19

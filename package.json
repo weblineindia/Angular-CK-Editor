@@ -1,0 +1,72 @@
+{
+  "_from": "@kolkov/angular-editor",
+  "_id": "@kolkov/angular-editor@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-ae6v4XDLxIZhHyMAWma4QZvGIDvsn7eeqE+sQIm+9VbXn2jWaS3Mqg4nnKbZSB7p0xhbWviKG2Frb1I8s+ne0Q==",
+  "_location": "/@kolkov/angular-editor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@kolkov/angular-editor",
+    "name": "@kolkov/angular-editor",
+    "escapedName": "@kolkov%2fangular-editor",
+    "scope": "@kolkov",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@kolkov/angular-editor/-/angular-editor-1.1.2.tgz",
+  "_shasum": "d23819340d754ac3fb094bddba043702c75524cb",
+  "_spec": "@kolkov/angular-editor",
+  "_where": "/media/javauser/914fa200-2352-479a-be3f-039edc4d1f6a/home/javauser/angular projects/my-new-app",
+  "author": {
+    "name": "weblineindia"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "deprecated": false,
+  "description": "A simple, native and easy-to-use WYSIWYG / Rich Text editor built in AngularJS.",
+  "es2015": "fesm2015/kolkov-angular-editor.js",
+  "esm2015": "esm2015/kolkov-angular-editor.js",
+  "esm5": "esm5/kolkov-angular-editor.js",
+  "fesm2015": "fesm2015/kolkov-angular-editor.js",
+  "fesm5": "fesm5/kolkov-angular-editor.js",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "keywords": [
+    "angular-editor",
+    "angular-native-editor",
+    "angularjs-wysiwyg",
+    "ck-editor",
+    "angular-wysiwyg-editor",
+    "wysiwyg-editor",
+    "angularjs-rich-text-editor",
+    "rich-text-editor"
+  ],
+  "license": "MIT",
+  "main": "bundles/kolkov-angular-editor.umd.js",
+  "metadata": "kolkov-angular-editor.metadata.json",
+  "module": "fesm5/kolkov-angular-editor.js",
+  "name": "angular-weblineindia-ck-editor",
+  "peerDependencies": {
+    "@angular/common": ">=8.0.0 <10",
+    "@angular/core": ">=8.0.0 <10",
+    "@angular/forms": ">=8.0.0 <10",
+    "@angular/platform-browser": ">=8.0.0 <10",
+    "rxjs": "^6.x.x"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weblineindia/AngularJS-CK-Editor"
+  },
+  "sideEffects": false,
+  "typings": "kolkov-angular-editor.d.ts",
+  "version": "1.0.0"
+}
